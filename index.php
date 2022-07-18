@@ -5,3 +5,4 @@ if ($_SESSION['status_login'] == true) {
 } else {
     header('location:admin.php');
 }
+//index
