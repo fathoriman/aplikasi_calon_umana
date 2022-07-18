@@ -6,3 +6,4 @@ if ($_SESSION['status_login'] == true) {
     header('location:admin.php');
 }
 //index
+//membuat index awal
