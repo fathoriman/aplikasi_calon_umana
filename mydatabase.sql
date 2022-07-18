@@ -135,6 +135,7 @@ ALTER TABLE `users`
 --
 -- AUTO_INCREMENT for dumped tables
 --
+//
 
 --
 -- AUTO_INCREMENT for table `istikharah`
